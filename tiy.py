@@ -1,3 +1,6 @@
 print ("This is the CAPSTONE project")
 print ("second line added from Ram branch")
 print ("third line added to Sohan branch")
+print ("Git is interesting if you practice daily")
+print ("Devops is the future")        
+print ("Never give up on your dreams Trevor")
